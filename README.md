@@ -6,7 +6,7 @@ As most of my work, this solution is being constantly updated as I learn new thi
 
 ### Screenshots
 
-![](./screenshots/screenshot-project-the-last-of-us.png)
+![](./screenshot.png)
 
 ### Built with
 
